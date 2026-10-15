@@ -10,16 +10,10 @@ A clean, minimalist, and ATS-optimized resume layout built for developers, desig
 ---
 
 ### ⚡ Want the Complete Premium Bundle?
-Upgrade to the **Pro Solopreneur & Career Kit** on Gumroad to unlock:
+
+Upgrade to the **Pro Solopreneur & Career Kit** on Polar to unlock:
+
+👉 **[Get Instant Access on Polar](https://buy.polar.sh/polar_cl_YpssMY66kAYwYCLoGcuRDSwpdqTsvfGTlMyX64QlvHK)**
+
 - Multi-page ATS templates & Cover Letter layouts.
 - Full source files (Figma, Adobe Illustrator, Photoshop, Word).
-- Complete SaaS & E-Commerce Boilerplate codebase.
-
-👉 **[Get the Full Pro Bundle on Gumroad](https://gkhnbuilds.gumroad.com)**
-
----
-
-## 💻 How to Use
-1. Download the free files from this repository.
-2. Edit your contact details and work experience.
-3. Export as PDF or Word document and submit to job applications.
